@@ -1,6 +1,22 @@
 ### 💖 Support My Open Source Work
 
-Since standard payment platforms (like Stripe, PayPal, or GitHub Sponsors direct payouts) don't currently support creators in Iraq, you can support my open-source work directly using **USDT (TRC-20)**.
+GitHub Sponsors and its Stripe payouts don't currently support creators in Iraq, so I've set up two easy ways for you to back my open-source work (like [Asyar](https://github.com/Xoshbin/Asyar-Project)). Pick whichever suits you.
+
+## Option 1: Fiat / Credit Card / PayPal via Patreon
+
+**Recommended for recurring and card support.** Pay by credit card, debit card, or PayPal, monthly or one-time.
+
+<div align="center">
+
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/Xoshbin)
+
+</div>
+
+👉 **[patreon.com/c/Xoshbin](https://www.patreon.com/c/Xoshbin)**
+
+## Option 2: Direct Crypto Transfer (USDT TRC-20)
+
+Prefer crypto? Send **USDT (TRC-20)** directly to the wallet below.
 
 <div align="center">
 
